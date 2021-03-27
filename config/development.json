@@ -1,0 +1,9 @@
+{
+    "db": {
+        "user": "root",
+        "host": "localhost",
+        "port": "27017",
+        "name": "blog"
+    }
+}
+// mongodb://root:root@localhost:27017/blog?authSource=admin
